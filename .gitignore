@@ -1,3 +1,10 @@
+# Project-specific
+
+
+# IDE-specfic
+.idea/
+
+# Default: 
 # Built application files
 *.apk
 *.ap_
